@@ -35,5 +35,22 @@
         "module": "Ingl\u00eas_Instrumental",
         "class_id": "matematica_101",
         "attendance": "ausente"
+    },
+    "exemplo de log para testar a API",
+    {
+        "student_id": "aluno_2024_3001",
+        "timestamp": "2024-11-05T10:30:00Z",
+        "course_id": "curso_engenharia",
+        "module": "Ingl\u00eas_Instrumental",
+        "class_id": "matematica_101",
+        "attendance": "ausente"
+    },
+    {
+        "student_id": "aluno_2024_3002",
+        "timestamp": "2024-11-05T10:30:00Z",
+        "course_id": "curso_engenharia",
+        "module": "Portugu\u00eas_Instrumental",
+        "class_id": "matematica_101",
+        "attendance": "ausente"
     }
 ]

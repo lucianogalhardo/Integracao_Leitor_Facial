@@ -26,10 +26,10 @@ Content-Type: application/json
 
 {
     "access_logs": {
-        "student_id": "aluno_2024_3004",
+        "student_id": "aluno_2024_3002",
         "timestamp": "2024-11-05T10:30:00Z",
         "course_id": "curso_engenharia",
-        "module": "Inglês_Instrumental",
+        "module": "Português_Instrumental",
         "class_id": "matematica_101",
         "attendance": "ausente"
     }
