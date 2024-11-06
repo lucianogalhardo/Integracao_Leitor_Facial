@@ -3,36 +3,29 @@
 
 ### " Abaixo segue instruções para rodar a api " ###
 
-### Para rodar este código no VSCode, você precisará instalar o ambiente e dependências adequados para executar um servidor Flask. Aqui estão os passos:###
+### Para rodar este código no VSCode, você precisará instalar o ambiente e dependências adequados para executar um servidor Flask. Aqui estão os passos: ###
 
-#### 1- Instale o Python: ####
+### 1- Instale o Python: ####
 
-Certifique-se de que o Python está instalado no seu sistema. Você pode verificar no terminal com o comando:
+### 2- Certifique-se de que o Python está instalado no seu sistema. Você pode verificar no terminal com o comando: ###
 
-bash
-Copiar código
 python --version
-ou, em alguns sistemas:
-
-bash
-Copiar código
+ou,
 python3 --version
-Crie um Ambiente Virtual (opcional, mas recomendado): No diretório do projeto, execute:
 
-bash
-Copiar código
-python -m venv venv
-Isso criará um ambiente virtual chamado venv. Para ativá-lo:
+### 3- Crie um Ambiente Virtual (opcional, mas recomendado): No diretório do projeto, execute: ###
+
+python -m venv venv   (Isso criará um ambiente virtual chamado venv.)
+
+#### 4- Para ativá-lo: ####
 
 No Windows:
-bash
-Copiar código
 venv\Scripts\activate
+
 No macOS/Linux:
-bash
-Copiar código
 source venv/bin/activate
-Instale o Flask: Com o ambiente virtual ativado, instale o Flask com o comando:
+
+####Instale o Flask: Com o ambiente virtual ativado, instale o Flask com o comando:
 
 bash
 Copiar código
