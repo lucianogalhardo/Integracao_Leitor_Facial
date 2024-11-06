@@ -9,11 +9,11 @@ Este guia descreve os passos necessários para rodar um servidor Flask no Visual
 
 1. **Instalar o Python**:
    - Verifique se o Python está instalado usando o comando:
-     ```bash
+     
      python --version
      ```
    - Ou, em alguns sistemas:
-     ```bash
+     
      python3 --version
      ```
 
@@ -22,5 +22,5 @@ Este guia descreve os passos necessários para rodar um servidor Flask no Visual
 ### 1. Criar um Ambiente Virtual (opcional, mas recomendado)
 
    No diretório do projeto, execute o seguinte comando para criar um ambiente virtual:
-   ```bash
+   ```
    python -m venv venv
