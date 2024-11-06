@@ -1,11 +1,12 @@
 # Integracao_Leitor_Facial
 ## Método de requisição de logs em leitor facial e registro em arquivo.json, utilizando linguagem Python. ##
 
-### - Abaixo segue instruções para rodar a api ###
+### " Abaixo segue instruções para rodar a api " ###
 
 ### Para rodar este código no VSCode, você precisará instalar o ambiente e dependências adequados para executar um servidor Flask. Aqui estão os passos:###
 
 #### 1- Instale o Python: ####
+
 Certifique-se de que o Python está instalado no seu sistema. Você pode verificar no terminal com o comando:
 
 bash
