@@ -103,4 +103,4 @@ Este guia descreve os passos necessários para rodar um servidor Flask no Visual
    - Remova ou desative esta opção em produção para maior segurança.
    - Agora, o servidor Flask deve estar ativo, e você poderá interagir com ele por meio dos endpoints configurados.
 
-   - 
+
