@@ -1,5 +1,3 @@
-Infelizmente, o Markdown padrão não suporta cores diretamente no texto. Entretanto, você pode utilizar alguns artifícios para destacar seções de maneira mais visual, como caixas de citação, emojis para indicar seções, ou usar texto em **negrito** e *itálico*. Se você estiver utilizando Markdown em uma plataforma que permite HTML, você também pode incorporar tags de HTML para colorir texto. Abaixo está uma versão aprimorada usando essas técnicas:
-
 ---
 
 # 🎉 **Instruções para Executar o Código Flask no VSCode**
