@@ -15,6 +15,7 @@ def device_is_alive():
     print(data)
     print(request.args)
 
+
     # Verifica se a chave 'access_logs' existe no JSON recebido
     if 'access_logs' not in data:
         return jsonify({"error": "Campo 'access_logs' não encontrado."}), 400
