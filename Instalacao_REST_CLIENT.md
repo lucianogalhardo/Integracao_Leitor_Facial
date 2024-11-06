@@ -1,8 +1,6 @@
-Aqui está a resposta em formato Markdown, com realces visuais como emojis, caixas de citação, negrito e itálico para facilitar a leitura e tornar o guia mais atrativo:
-
 ---
 
-# 🎯 Guia para Executar Requisições HTTP no VS Code
+# 🎯 Guia para Executar Requisições HTTP no VS Code (Estensão REST CLIENT)
 
 Siga estes passos para configurar e rodar requisições HTTP diretamente no **Visual Studio Code** utilizando a extensão **REST Client**. Isso permite testar APIs sem necessidade de scripts adicionais! Vamos lá! 🚀
 
